@@ -4,7 +4,7 @@ The project shows an in-depth analysis of SuperStore's sales data.
 # Objectives
 Analyze sales performance across various regions, categories, and customer segments.
 Identify top-performing products and customer preferences.
-Evaluate shipping methods and delivery times to enhance logistics.
+Evaluate shipping methods and delivery times to enhance logistics. 
 Utilize time series analysis for short-term sales forecasting
 
 # Dashboard Features
