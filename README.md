@@ -5,7 +5,7 @@ The project shows an in-depth analysis of SuperStore's sales data.
 Analyze sales performance across various regions, categories, and customer segments.
 Identify top-performing products and customer preferences.
 Evaluate shipping methods and delivery times to enhance logistics. 
-Utilize time series analysis for short-term sales forecasting
+Utilize time series analysis for short-term sales forecasting 
 
 # Dashboard Features
 Interactive Visuals: Bar charts, line graphs, pie charts, and maps for dynamic data exploration.
