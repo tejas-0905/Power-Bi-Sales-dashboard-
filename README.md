@@ -13,3 +13,4 @@ Slicers: Filter data by region, category, segment, and time period.
 KPIs: Highlight key metrics like total sales, profit, and average delivery time.
 Time Series Forecasting: Predict future sales trends based on historical data
  
+ 
